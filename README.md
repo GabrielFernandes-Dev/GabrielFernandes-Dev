@@ -3,8 +3,8 @@
 - 🧑‍💻 Desenvolvedor em C#, .NET Core, Typescript e ASP Classico
 - 🌱 Atualmente estou estudando C# .NET
 
-Faço parte de uma iniciação cienifica que busca ajudar pessoas com TDAH:
-### Rutin
+### Meus Projetos 
+#### Rutin
 [![Rutin](https://github-readme-stats.vercel.app/api/pin/?username=gabrielgomes-coder&repo=Rutin)](https://github.com/gabrielgomes-coder/Rutin)
 
 Esse aplicativo está sendo desenvolvido utilizando .NET MAUI com arquitetura MVVM. Possui o objetivo de acompanhar pessoas com TDAH em seu processo de organizar o dia possuindo total controle sobre notificações e atividades diárias
