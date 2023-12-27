@@ -228,8 +228,3 @@ Esse aplicativo está sendo desenvolvido utilizando .NET MAUI com arquitetura MV
 - 📫 Contate-me no meu email: ggfernandes30@gmail.com
 - 😄 Pronomes: ele/dele 
 ##
-<div align="center">
-  <a href="https://github.com/gabrielgomes-coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgomes-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgomes-coder&layout=compact&langs_count=7&theme=dark"/>
-</div>
