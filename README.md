@@ -220,6 +220,6 @@
 </table>
 
 ##
-- 📫 Contate-me no meu email: gabriel.fernandes@qis.com
+- 📫 Contate-me no meu email: gabriel.fernandes@qis.com.br
 - 😄 Pronomes: ele/dele 
 ##
