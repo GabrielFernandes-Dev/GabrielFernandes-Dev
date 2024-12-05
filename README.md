@@ -4,8 +4,6 @@
 - 🌱 Atualmente estou estudando C# .NET
 
 
-Esse aplicativo está sendo desenvolvido utilizando .NET MAUI com arquitetura MVVM. Possui o objetivo de acompanhar pessoas com TDAH em seu processo de organizar o dia possuindo total controle sobre notificações e atividades diárias
-
 ### Hard Skills
 
 <table width="500px" height="255px">
