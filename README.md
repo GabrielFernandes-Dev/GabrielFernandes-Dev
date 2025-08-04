@@ -1,7 +1,7 @@
 ### Olá me chamo Gabriel Gomes prazer
 
 - 🧑‍💻 Desenvolvedor em C#, .NET Core, Typescript e ASP Classico
-- 🌱 Atualmente estou estudando C# .NET
+- 🌱 Atualmente estou estudando Clean Architecture
 
 
 ### Hard Skills
